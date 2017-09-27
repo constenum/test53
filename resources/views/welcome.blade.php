@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    SUA Registration
                 </div>
 
                 <div class="links">
